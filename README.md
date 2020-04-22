@@ -1,1 +1,1 @@
-C++ Programming by Youngmin Kim
+# Infinite Integer Calculator
