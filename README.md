@@ -13,7 +13,7 @@ This is the one of my project of Object-Oriented Programming. I used C++ to crea
 ```
 
 
-## :point_up: Submission Rule by our Professor.
+## :point_up: Submission Rule.
 
 1. Create a directory "proj2".
 2. Insert compilable source code package(inf_int.h, inf_int.cpp, main.cpp, ...) and readme.txt into “proj2”. In readme.txt file, you should briefly explain how to compile and execute the source codes you submit.
